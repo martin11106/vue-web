@@ -7,7 +7,7 @@ const router= new VueRoute({
         {
             path:"/welcome",
             component: respuesta
-        }
+        },
     ]
 })
 export default router
